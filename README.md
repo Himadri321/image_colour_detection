@@ -1,1 +1,2 @@
-# image_colour_detection
+# image-colour-detection-
+sparks foundation internship
